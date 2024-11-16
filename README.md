@@ -1,0 +1,2 @@
+# KostIn
+Manage your kost!
